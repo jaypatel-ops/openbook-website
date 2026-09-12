@@ -42,7 +42,8 @@ After DNS propagates, your Plaid / App Store URLs will be:
 
 ## Operator details
 
-- Operator: Jay Patel (individual)
-- Support / privacy email: `jaykpatel.dev@gmail.com`
+- Operator: Elevate Software LLC (Illinois)
+- Product: OpenBook
+- Support / privacy email: `team@openbookbusiness.com`
 
 Update `/privacy/` when data practices change (new Plaid products, analytics, etc.).
